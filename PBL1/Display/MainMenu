@@ -1,0 +1,17 @@
+________________________________________________________________________________________
+
+  			STUDENT MANAGEMENT PROGRAM BY C/C++
+________________________________________________________________________________________
+
+				1. Enter all students' marks
+				2. Enter marks by student ID
+				3. View marks by student ID
+				4. Edit marks by student ID
+				5. Sort by mark average
+				6. View all student's marks 
+				7. Add new student
+				8. Remove student by ID
+				9. View marks by student's name
+				10. Backup to FILE
+				0. EXIT
+________________________________________________________________________________________
